@@ -189,3 +189,9 @@ hi link cssRenderAttr cssUIAttr
 
 hi link sassClassChar cssClass
 hi link sassProperty  cssDefinition
+
+
+"————————————————————————————————————————————————————————————————————————————————————————————————————————————————————"
+" LaTeX 
+"————————————————————————————————————————————————————————————————————————————————————————————————————————————————————"
+hi link VimtexTocSec3 Typedef

@@ -196,4 +196,7 @@ hi link sassProperty  cssDefinition
 "————————————————————————————————————————————————————————————————————————————————————————————————————————————————————"
 hi conceal   guifg= #47BAB4
 "#42A19B
+hi whatever guifg = #FF0000"
+
 hi link VimtexTocSec3 conceal
+hi link VimtexTocSec1 whatever
